@@ -1,0 +1,3 @@
+import doctorImage from '../assets/doctor1.jpg';
+
+<img src={doctorImage} alt="Doctor" />
