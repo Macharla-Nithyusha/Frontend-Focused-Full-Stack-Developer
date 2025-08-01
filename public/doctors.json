@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Alice Smith",
+    "specialization": "Cardiologist",
+    "image": "/doctor1.jpg",
+    "available": true,
+    "description": "Expert in heart-related issues."
+  },
+  {
+    "id": "2",
+    "name": "Dr. Bob Jones",
+    "specialization": "Dermatologist",
+    "image": "/doctor2.jpg",
+    "available": false,
+    "description": "Specialist in skin diseases."
+  }
+]
