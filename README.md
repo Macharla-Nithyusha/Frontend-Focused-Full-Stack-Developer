@@ -20,3 +20,13 @@
 - Form validation handled via custom logic
 - Local state management via React hooks
 - Dynamic routing for doctor profiles
+
+=>healthcare-app/
+├── backend/        
+│   ├── data/      
+│   └── routes/      
+├── frontend/        
+│   ├── components/ 
+│   ├── pages/       
+│   └── types/
+└── README.md       
