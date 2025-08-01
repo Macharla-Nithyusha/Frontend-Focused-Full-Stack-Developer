@@ -1,1 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Aisha Rao",
+    "specialization": "Cardiologist",
+    "image": "https://via.placeholder.com/100",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Dr. Raj Patel",
+    "specialization": "Dermatologist",
+    "image": "https://via.placeholder.com/100",
+    "available": false
+  }
+]
 
